@@ -12,6 +12,10 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/marcos_silva488_fatec_sp_gov
 
 Nessa análise foram utilizadas as fomrulas CONT.SES e PROCV, a tabela e gráficos dinâmicos e tratamento de dados atráves de localizar e substituir. 
 
+## Atividade de regressão linear - vendas de sorvete em função a temperatura
+<img width="1293" height="701" alt="image" src="https://github.com/user-attachments/assets/302bd187-1cb0-48d5-9faa-4b00415694f7" />
+
+
 ## Atividade de regressão linear - salário por anos de experiência 
 <img width="1763" height="851" alt="image" src="https://github.com/user-attachments/assets/b0ac4469-6a5e-4f09-8ee9-34b502e68fff" />
 
