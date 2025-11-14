@@ -11,3 +11,8 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/marcos_silva488_fatec_sp_gov
 <img width="1116" height="738" alt="image" src="https://github.com/user-attachments/assets/2f3b463f-f59e-4edc-9cbd-bbc0e4f3cfe8" />
 
 Nessa análise foram utilizadas as fomrulas CONT.SES e PROCV, a tabela e gráficos dinâmicos e tratamento de dados atráves de localizar e substituir. 
+
+## Atividade de regressão linear - salário por anos de experiência 
+<img width="1763" height="851" alt="image" src="https://github.com/user-attachments/assets/b0ac4469-6a5e-4f09-8ee9-34b502e68fff" />
+
+<img width="1829" height="833" alt="image" src="https://github.com/user-attachments/assets/e554be18-6da9-4781-9b46-324b4449fda8" />
