@@ -32,3 +32,11 @@ Nessa análise foram utilizadas as fomrulas CONT.SES e PROCV, a tabela e gráfic
 <img width="1829" height="833" alt="image" src="https://github.com/user-attachments/assets/e554be18-6da9-4781-9b46-324b4449fda8" />
 
 * Essa atividade consiste na elaboração de um gráfico de dispersão em regressão linear entre a relação salário/anos de experiência. Para isso foi feito um tratamento de dados tanto em excel quanto no google colab.
+
+## Atividade avaliativa semestral
+### Essa atividade tem o objetivo criar um dashboard interativo com a base de dados da Pesquisa Mensal de Serviços (PMS)
+
+<img width="1521" height="853" alt="image" src="https://github.com/user-attachments/assets/7dd7f70a-12ab-4376-ab92-804dd04134c5" />
+
+<img width="1679" height="651" alt="image" src="https://github.com/user-attachments/assets/ce31ce87-9e53-4efa-903c-6544cab7b8cc" />
+
